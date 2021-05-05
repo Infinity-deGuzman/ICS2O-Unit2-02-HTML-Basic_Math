@@ -1,0 +1,16 @@
+/* Created by: Infinity de Guzman
+ * Created on: May 2021
+ * This CSS file defines the style for index.html ICS2O-Unit2-02-HTML-Basic_Math
+*/
+
+body {
+  background-color: #fff7d2;
+  color: #ff033e;
+}
+
+h1 {
+  background-color: #ff8a5c;
+  color: #ffc2aa;
+  padding: 40px;
+  text-align: center;
+}
